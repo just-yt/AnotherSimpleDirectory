@@ -1,0 +1,2 @@
+#!/bin/bash
+openvt -s -w /opt/mylogon/logon.sh
